@@ -46,5 +46,4 @@ npm start
 Server http://localhost:3000
 
 
-- run project or ./mvnw spring-boot:run
 
